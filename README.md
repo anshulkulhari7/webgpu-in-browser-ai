@@ -1,6 +1,6 @@
 # WebGPU In-Browser ML Demo Suite
 
-This project accompanies the Medium article “WebGPU in 2025: In-Browser AI That’s Actually Useful.” It provides a locally runnable React + Vite app showcasing production-ready WebGPU machine learning workflows:
+This project accompanies the Medium article [“WebGPU in 2025: In-Browser AI That’s Actually Useful.”](https://medium.com/@kulhari.anshul/webgpu-in-2025-in-browser-ai-thats-actually-useful-281bbaadaf6f) It provides a locally runnable React + Vite app showcasing production-ready WebGPU machine learning workflows:
 
 - Transformers.js image classification with automatic WASM fallback
 - Transformers.js embeddings with semantic search on the GPU

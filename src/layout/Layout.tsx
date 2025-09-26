@@ -36,7 +36,7 @@ export function Layout({ children }: PropsWithChildren<unknown>) {
         <footer className={styles.footer}>
           <span>Built with React + WebGPU</span>
           <span>
-            Article: <a href="https://medium.com" target="_blank" rel="noreferrer">WebGPU in 2025</a>
+            Article: <a href="https://medium.com/@kulhari.anshul/webgpu-in-2025-in-browser-ai-thats-actually-useful-281bbaadaf6f" target="_blank" rel="noreferrer">WebGPU in 2025</a>
           </span>
         </footer>
       </aside>

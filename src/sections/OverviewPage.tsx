@@ -40,7 +40,15 @@ export function OverviewPage() {
       <header className={styles.hero}>
         <h1>WebGPU ML Demo Suite</h1>
         <p>
-          Explore production-ready browser AI building blocks: image classification, embeddings, on-device chat, ONNX Runtime IO binding, and a WebGPU capability playground. Built to accompany “WebGPU in 2025: In-Browser AI That’s Actually Useful.”
+          Explore production-ready browser AI building blocks: image classification, embeddings, on-device chat, ONNX Runtime IO binding, and a WebGPU capability playground. Built to accompany
+          <a
+            href="https://medium.com/@kulhari.anshul/webgpu-in-2025-in-browser-ai-thats-actually-useful-281bbaadaf6f"
+            target="_blank"
+            rel="noreferrer"
+            className={styles.heroLink}
+          >
+            “WebGPU in 2025: In-Browser AI That’s Actually Useful.”
+          </a>
         </p>
       </header>
 

@@ -40,6 +40,17 @@
   color: var(--text-secondary);
 }
 
+.heroLink {
+  color: var(--accent-primary, #4f46e5);
+  text-decoration: none;
+  font-weight: 600;
+  margin-left: 6px;
+}
+
+.heroLink:hover {
+  text-decoration: underline;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
