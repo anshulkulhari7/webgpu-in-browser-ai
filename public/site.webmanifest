@@ -1,0 +1,16 @@
+{
+  "name": "WebGPU Demo Suite",
+  "short_name": "WebGPU Demos",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc"
+}
+
